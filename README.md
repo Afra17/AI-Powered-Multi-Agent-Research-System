@@ -175,5 +175,3 @@ AI-Powered Multi-Agent Research System/
 ├── requirements.txt
 └── README.md
 
-نسخ الكو
-
